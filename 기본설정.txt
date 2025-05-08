@@ -1,0 +1,7 @@
+pip install scikit-learn
+
+pip install jupyterlab
+
+pip install seaborn
+
+pip install pandas
