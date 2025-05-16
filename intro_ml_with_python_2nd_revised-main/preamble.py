@@ -2,9 +2,9 @@ from IPython.display import set_matplotlib_formats, display
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import koreanize_matplotlib
 import mglearn
 from cycler import cycler
-import koreanize_matplotlib
 
 set_matplotlib_formats('pdf', 'png')
 plt.rcParams['savefig.dpi'] = 300
